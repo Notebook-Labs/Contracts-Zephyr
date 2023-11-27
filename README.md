@@ -24,6 +24,10 @@ The Sybil contract is an optional contract that can be specified by a seller to 
 
 This repository and all its contents are licensed under the GNU General Public License (GPL-3.0-only). This ensures that all users have the freedoms to run, study, share, and modify the software. The full text of the GPL license is available in the LICENSE file in the root directory of this project.
 
+## Why We're Starting with a Clean Repository
+
+In our journey to make this project open source, we've decided to start with a clean slate. This approach allows us to ensure that the repository is streamlined, focused, and free from any developmental artifacts that might be confusing or irrelevant to the community. We believe that this will facilitate a clearer understanding of the project and encourage more meaningful contributions from the community. While this means we lose the historical commit data, we think the trade-off is worth it for the sake of clarity and ease of contribution. Our goal is to present a more approachable, well-organized codebase that reflects the current state of the project and aligns more closely with open-source best practices. We appreciate your understanding and are excited to see how this project evolves with your valuable input!
+
 
 
 
